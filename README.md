@@ -85,7 +85,7 @@ This solution can be used by:
 to quickly identify disaster-related information and respond faster.
 
 ## Repository Structure
-├── MajorProject.pdf
+├── disaster tweets sentiment analysis.pdf
 ├── README.md
 
 ## Project Highlight
